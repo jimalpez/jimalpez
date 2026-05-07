@@ -13,7 +13,7 @@
 
 </div>
 
-🔭 I’m currently working on WordPress projects and building custom websites using HTML, CSS, and JavaScript <br />
+🔭 I’m currently working on WordPress projects and ReactJS <br />
 🌱 I’m currently learning FastAPI, and modern web development techniques <br />
 👯 I’m looking to collaborate on open-source web projects and innovative web development solutions <br />
 🤔 I’m looking for help with perfecting my React.js skills and integrating it seamlessly with backend APIs <br />
